@@ -43,12 +43,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "mWq0GOmizc2NY5-1uY0hPUDhI8a3sWq9";
+char auth[] = "mWq0GOmizc2NY5-1uY0hPUDhI8a3s"; //Your Blynk API key
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "OPPO Reno4";
-char pass[] = "lusycantik3";
+char ssid[] = "OPPO Reno4"; // Wifi Name
+char pass[] = "lusycantik3"; // Wifi Password
 
 void setup()
 {
